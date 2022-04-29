@@ -1,4 +1,5 @@
 package com.wanxc.dao;
 
-public class GitMapper {
+public interface GitMapper {
+    public void hello();
 }
